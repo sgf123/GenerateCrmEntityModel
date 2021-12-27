@@ -13,6 +13,7 @@ namespace GenerateCrmEntityModel
     {
         static void Main(string[] args)
         {
+            //1.2.3
             Generate("entityname", "modelname");
             Console.WriteLine("success!");
             Console.ReadLine();
