@@ -16,6 +16,7 @@ namespace GenerateCrmEntityModel
             //1.2.3.5.6.7.8.9.a
             //1.2.3.5.6.7.8.9
             //1.2.3.4.5
+            //1.2.3.5.6.7.8.9.a.b
             Generate("entityname", "modelname");
             Console.WriteLine("success!");
             Console.ReadLine();
