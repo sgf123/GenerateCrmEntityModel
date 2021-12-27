@@ -13,7 +13,7 @@ namespace GenerateCrmEntityModel
     {
         static void Main(string[] args)
         {
-            //1.2.3.5.6.7.8.9.a
+            //1.2.3.4.5.7.8
             //1.2.3.5.6.7.8.9
             //1.2.3.4.5
             //1.2.3.5.6.7.8.9.a.b
