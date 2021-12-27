@@ -15,7 +15,8 @@ namespace GenerateCrmEntityModel
         {
             Generate("entityname", "modelname");
             Console.WriteLine("success!");
-            Console.ReadLine();
+            Console.WriteLine("暂存");
+            Console.ReadLine();  
         }
 
         /// <summary>
